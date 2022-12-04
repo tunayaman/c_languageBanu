@@ -13,7 +13,7 @@ void powerNumbers(float baseNumber, int exponent)
 int main()
 {
     int exponent;
-    float baseNumber
+    float baseNumber;
 
     printf("enter the base number: ");
     scanf("%f",&baseNumber);
